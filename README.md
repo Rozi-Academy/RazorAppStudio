@@ -8,7 +8,7 @@ Welcome to the official repository for **Razor App Studio**. This repository hos
 The privacy policy for our applications ensures user privacy and explains how permissions and data are handled.
 
 - **File Name:** `privacy-policy.html`
-- **URL:** [Privacy Policy](https://rozi-academy.github.io/RazorAppStudio/docs/privacy-policy.html)
+- **URL:** [Privacy Policy](https://rozi-academy.github.io/RazorAppStudio/docs/privacy_policies)
 
 ### 2. app-ads.txt
 The app-ads.txt file is required for AdMob integration and helps to prevent unauthorized use of our apps.
