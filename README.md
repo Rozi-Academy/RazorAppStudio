@@ -7,7 +7,7 @@ Welcome to the official repository for **Razor App Studio**. This repository hos
 ### 1. Privacy Policy
 The privacy policy for our applications ensures user privacy and explains how permissions and data are handled.
 
-- **File Name:** `privacy-policy.html`
+- **File Name:** `privacy-policy`
 - **URL:** [Privacy Policy](https://rozi-academy.github.io/RazorAppStudio/privacy_policies)
 
 ### 2. app-ads.txt
