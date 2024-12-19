@@ -30,7 +30,7 @@ The **app-ads.txt** file is used for managing ads and ensuring authorized ad net
 Ensure that your users are aware of your privacy practices by providing access to the privacy policy file hosted here. You can link to it within your app as needed.
 
 ### 2. **app-ads.txt**
-To set up ads in your apps, especially through networks like AdMob, you must implement the **app-ads.txt** file. Do not download this file from the above link.
+To set up ads in your apps, especially through networks like AdMob, you must implement the **app-ads.txt** file. Do not use this file in Your AdMob or anywhere.
 
 ---
 
