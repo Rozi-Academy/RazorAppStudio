@@ -14,7 +14,7 @@ The privacy policy for our applications ensures user privacy and explains how pe
 The app-ads.txt file is required for AdMob integration and helps to prevent unauthorized use of our apps.
 
 - **File Name:** `app-ads.txt`
-- **URL:** [app-ads.txt]([https://rozi-academy.github.io/RazorAppStudio/app-ads.txt)
+- **URL:** [app-ads.txt](https://rozi-academy.github.io/RazorAppStudio/app-ads.txt)
 
 ---
 
@@ -24,5 +24,4 @@ If you have questions or concerns regarding our applications, you can reach us a
 
 ---
 
-## 📝 License
 © 2025 Razor App Studio. All rights reserved.
